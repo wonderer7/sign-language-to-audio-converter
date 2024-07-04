@@ -59,7 +59,7 @@ matplotlib-inline==0.1.6
 mediapipe==0.10.14
 multidict==6.0.4
 nest-asyncio==1.5.7
-numpy==1.21.6
+numpy==1.26.1
 oauthlib==3.2.2
 opencage==2.3.0
 opencv-contrib-python==4.8.1.78
